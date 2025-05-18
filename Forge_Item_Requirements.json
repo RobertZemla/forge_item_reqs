@@ -1,8 +1,8 @@
 {
 	"BEJEWELED_HANDLE":{
-		"forge_time": 0.5,
-		"material": {
-			"GLACITE_JEWEL": 3
-		}
+		"forge_time": ".5"
+	},
+	"DRILL_ENGINE":{
+		"forge_time": "1800"
 	}
 }
