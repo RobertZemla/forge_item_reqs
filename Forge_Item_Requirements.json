@@ -1,38 +1,40 @@
 {
-	"BEJEWELED_HANDLE":{
-		"forge_time": 0.5,
-		"material":{
-			"GLACITE_JEWEL": 3
+	"products":{
+		"BEJEWELED_HANDLE":{
+			"forge_time": 0.5,
+			"material":{
+				"GLACITE_JEWEL": 3
+			}
+		},
+		"DRILL_ENGINE":{
+			"forge_time": 1800
+		},
+		"FUEL_TANK":{
+			"forge_time": 600
+		},
+		"GEMSTONE_MIXTURE":{
+			"forge_time": 240
+		},
+		"GLACITE_AMALGAMATION":{
+			"forge_time": 240
+		},
+		"GOLDEN_PLATE":{
+			"forge_time": 360
+		},
+		"MITHRIL_PLATE":{
+			"forge_time": 1080
+		},
+		"TUNGSTEN_PLATE":{
+			"forge_time": 180
+		},
+		"UMBER_PLATE":{
+			"forge_time": 180
+		},
+		"PERFECT_PLATE":{
+			"forge_time": 30
+		},
+		"REFINED_DIAMOND":{
+			"forge_time": 480
 		}
-	},
-	"DRILL_ENGINE":{
-		"forge_time": 1800
-	},
-	"FUEL_TANK":{
-		"forge_time": 600
-	},
-	"GEMSTONE_MIXTURE":{
-		"forge_time": 240
-	},
-	"GLACITE_AMALGAMATION":{
-		"forge_time": 240
-	},
-	"GOLDEN_PLATE":{
-		"forge_time": 360
-	},
-	"MITHRIL_PLATE":{
-		"forge_time": 1080
-	},
-	"TUNGSTEN_PLATE":{
-		"forge_time": 180
-	},
-	"UMBER_PLATE":{
-		"forge_time": 180
-	},
-	"PERFECT_PLATE":{
-		"forge_time": 30
-	},
-	"REFINED_DIAMOND":{
-		"forge_time": 480
 	}
 }
