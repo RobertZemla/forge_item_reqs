@@ -46,7 +46,12 @@
       "forge_time": 240
     },
     "GOLDEN_PLATE": {
-      "forge_time": 360
+      "forge_time": 360,
+      "materials": {
+        "REFINED_DIAMOND": 1,
+        "ENCHANTED_GOLD_BLOCK": 2,
+        "GLACITE_JEWEL": 5
+        }
     },
     "MITHRIL_PLATE": {
       "forge_time": 1080
